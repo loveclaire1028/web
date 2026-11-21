@@ -1,7 +1,8 @@
 chat.deepseek.com
 chat.deepseek.com/api/v0/telemetry
-deepseek-en.comc
+deepseek-en.com
 deepseek-harness.io
 deepseek.app
 deepseek.com
 deepseekk.com.cn
+usadeepseek.com
