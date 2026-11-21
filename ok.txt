@@ -1,0 +1,7 @@
+chat.deepseek.com
+chat.deepseek.com/api/v0/telemetry
+deepseek-en.comc
+deepseek-harness.io
+deepseek.app
+deepseek.com
+deepseekk.com.cn
